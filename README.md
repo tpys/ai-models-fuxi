@@ -7,9 +7,10 @@ FuXi: A cascade machine learning forecasting system for 15-day global weather fo
 FuXi was created by Lei Chen, Xiaohui Zhong, Feng Zhang, Yuan Cheng, Yinghui Xu, Yuan Qi, Hao Li. It is released by Fudan University.
 
 The model weights are made available under the terms of the BY-NC-SA 4.0 license.
-The commercial use of these models is forbidden.
+The commercial use of these models is forbidden. Please download the pre-trained models from Google drive: https://drive.google.com/drive/folders/1CXxv-s4DdIHVxSCGsDLMn38n8Shk3fRs
 
-See <https://github.com/tpys/FuXi.git> for further details.
+
+For use other input data eg: ERA5 and GFS see <https://github.com/tpys/FuXi.git> for further details.
 
 
 ### Installation

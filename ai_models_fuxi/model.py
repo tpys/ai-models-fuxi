@@ -35,7 +35,7 @@ def time_encoding(init_time, total_step, freq=6):
 
 
 class FuXi(Model):
-    expver = "fdfx"
+    expver = "fuxi"
     use_an = False
     debug_fx = False
 

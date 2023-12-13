@@ -58,7 +58,7 @@ setuptools.setup(
     author="European Centre for Medium-Range Weather Forecasts (ECMWF)",
     author_email="software.support@ecmwf.int",
     license="Apache License Version 2.0",
-    url="https://github.com/ecmwf-lab/ai-models-fuxi",
+    url="https://github.com/tpys/ai-models-fuxi",
     packages=setuptools.find_packages(),
     include_package_data=True,
     setup_requires=["GPUtil"],
