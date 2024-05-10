@@ -45,8 +45,8 @@ class FuXi(Model):
     download_files = [
         "short",
         "short.onnx",
-        "meidum",
-        "meidum.onnx",     
+        "medium",
+        "medium.onnx",     
         "long",
         "long.onnx",             
     ]
